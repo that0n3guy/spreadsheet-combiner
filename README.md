@@ -11,8 +11,12 @@ A local workflow tool to verify and combine multiple spreadsheet files (.csv and
 ## Installation
 
 ### Prerequisites
--   Node.js (v18 or later recommended)
--   npm
+-   **Node.js**: You need Node.js installed on your machine.
+    1.  Go to [nodejs.org/en/download](https://nodejs.org/en/download).
+    2.  Download the **Windows Installer (.msi)** (or the version for your OS).
+    ![Node.js Download](assets/node_install.png)
+    3.  Run the installer and follow the prompts.
+-   **npm**: Included with Node.js.
 
 ### Setup
 1.  Clone the repository:
